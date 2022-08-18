@@ -15,5 +15,5 @@ CARACTER :
 
 CADENA DE CARACTERES : 
 
-      "hello world"
+      STRING "hello world"
     
