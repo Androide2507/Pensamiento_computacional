@@ -10,7 +10,8 @@
                     mostrar NUMERO1 , " ES MAYOR A 2 , numero 2
              SINO mostrar NUMERO2 , "ES MAYOR QUE " NUMERO1
         8.-FIN
-     
+     ![image](https://user-images.githubusercontent.com/111479506/186459887-887d9ec6-4e0e-4b2d-8587-6103e4a7a5e7.png)
+
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
