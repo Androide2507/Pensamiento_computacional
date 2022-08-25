@@ -41,3 +41,4 @@
         4.- ASIGNAR NUMERO
         5.- ASIGNAR OPERACION=(NUMERO/2)
         6.- SI(OPERACION
+![image](https://user-images.githubusercontent.com/111479506/186705151-9feb95d2-97a7-4bf1-aba6-57ae80dfb0a9.png)
