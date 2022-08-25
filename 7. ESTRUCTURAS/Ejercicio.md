@@ -35,4 +35,9 @@
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
-        TU ALGORITMO Y DIAGRAMA AQUI
+        1.- INICIO 
+        2.- DECLARAR NUMERO(int),OPERACION(int)
+        3.- MOSTRAR "Porfavor inserte un numero"
+        4.- ASIGNAR NUMERO
+        5.- ASIGNAR OPERACION=(NUMERO/2)
+        6.- SI(OPERACION
