@@ -43,4 +43,6 @@
         6.- SI(OPERACION
 ![image](https://user-images.githubusercontent.com/111479506/186705151-9feb95d2-97a7-4bf1-aba6-57ae80dfb0a9.png)
 ![image](https://user-images.githubusercontent.com/111479506/186706062-3154cec2-618f-411d-9ad1-2d7edd7f6998.png)
+![image](https://user-images.githubusercontent.com/111479506/186710341-699d59e4-6d64-4709-a34b-58ca56451c17.png)
+
 
