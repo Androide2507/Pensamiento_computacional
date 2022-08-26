@@ -13,3 +13,4 @@
          SINO SI NUMEROSECRETO<NUMERO1 ENTONCES
                  MOSTRAR " erraste ,el numero secreto es menor al que elegiste "
       9.- FIN
+
