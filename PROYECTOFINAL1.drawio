@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2022-08-26T15:06:56.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="F7QmL4TRiThXV-iactGa" version="20.2.7" type="github">
+  <diagram id="SWsQcgPqCHOcwrhSI7HV" name="Página-1">
+    <mxGraphModel dx="694" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y6deTs6wkhct3ybaStB8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y6deTs6wkhct3ybaStB8-1" target="Y6deTs6wkhct3ybaStB8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="219" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y6deTs6wkhct3ybaStB8-2" target="Y6deTs6wkhct3ybaStB8-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-2" value="NUMERO1,NUMEROSECRETO" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="184" y="130" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y6deTs6wkhct3ybaStB8-4" target="Y6deTs6wkhct3ybaStB8-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-4" value="NUMEROSECRETO=7" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="194" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y6deTs6wkhct3ybaStB8-6" target="Y6deTs6wkhct3ybaStB8-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-6" value="&quot;BIENVENIDO AL JUEGO DEL NUMERO SECRETO&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="184" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y6deTs6wkhct3ybaStB8-8" target="Y6deTs6wkhct3ybaStB8-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-8" value="&quot;INGRESE EL NUMERO CON EL QUE JUGARA EL JUEGO (1 AL 10)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="184" y="410" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y6deTs6wkhct3ybaStB8-10" target="Y6deTs6wkhct3ybaStB8-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-10" value="NUMERO 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="194" y="490" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y6deTs6wkhct3ybaStB8-12" target="Y6deTs6wkhct3ybaStB8-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-26" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Y6deTs6wkhct3ybaStB8-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.0131" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y6deTs6wkhct3ybaStB8-12" target="Y6deTs6wkhct3ybaStB8-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-33" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Y6deTs6wkhct3ybaStB8-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.1474" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-12" value="NUMEROSECRETO==NUMERO1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="144" y="590" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y6deTs6wkhct3ybaStB8-24" target="Y6deTs6wkhct3ybaStB8-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-24" value="&quot;FELICIDADES ATINASTE AL NUMERO&quot;, NUMERO SECRETO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Y6deTs6wkhct3ybaStB8-31" target="Y6deTs6wkhct3ybaStB8-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-36" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Y6deTs6wkhct3ybaStB8-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Y6deTs6wkhct3ybaStB8-31" target="Y6deTs6wkhct3ybaStB8-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-43" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Y6deTs6wkhct3ybaStB8-42" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-31" value="NUMEROSECRETO&amp;gt;NUMERO1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="680" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y6deTs6wkhct3ybaStB8-34" target="Y6deTs6wkhct3ybaStB8-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-34" value="&quot;erraste , el numero secreto es mayor al que seleccionaste&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="250" y="770" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-37" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y6deTs6wkhct3ybaStB8-41" target="Y6deTs6wkhct3ybaStB8-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6deTs6wkhct3ybaStB8-41" value="&quot;erraste , el numero secreto es mayor al que seleccionaste&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="650" y="780" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
