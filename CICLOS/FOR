@@ -1,2 +1,14 @@
 FOR(se sabe cuantas vecese se va a repetir el codigo)
 para usar los ciclos se necesita una variable contador.
+¿LAS VARIABLES DE TIPO ENTERO COMIENZAN VALIENDO CERO?SI
+(EJERCICIO) PEDIR AL USUARIO UN NUMERO Y PEDIR QUE MULTIPLIQUE EL NUMERO DEL UNO AL DIEZ.
+1.- INICIO
+2.- DECLARAR NUMERO1(INT),CONTADOR(INT),RESULTADO(INT)
+3.- ASIGNAR (CONTADOR=1) ,(RESULTADO=0)
+4.- MOSTRAR "INGRESE EL NUMERO DEL QUE QUIERES LA TABLA DE MULTIPLICAR"
+5.- ASIGNAR NUMERO1
+6.- PARA (contador<=10)
+    resultado=numero*contador
+    mostrar(numero*contador=
+    resultado) contador=contador+1 fin
+7.- FIN
