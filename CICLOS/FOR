@@ -13,3 +13,15 @@ para usar los ciclos se necesita una variable contador.
     resultado) contador=contador+1 fin
 7.- FIN
 
+Algoritmo FOR-pseint
+	numero1<-0
+	contador<-1
+	resultado<-0
+	Escribir "Buenos dias ,porfavor ingrese el numero del que desea la tabla de multiplicar"
+	Leer numero1
+	Para contador<-1 Hasta 10 Con Paso 1 Hacer
+		resultado=contador*numero1
+		Escribir numero1 , "*" , contador , "=" , resultado
+		
+	Fin Para
+FinAlgoritmo
