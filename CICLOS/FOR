@@ -12,3 +12,4 @@ para usar los ciclos se necesita una variable contador.
     mostrar(numero*contador=
     resultado) contador=contador+1 fin
 7.- FIN
+
